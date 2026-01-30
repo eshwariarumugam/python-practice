@@ -1,0 +1,10 @@
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+height=float(input("Enter your height: "))
+student_input=input("Are you a student(yes/no): ")
+is_student=student_input.lower()=="yes"
+
+print("Name : ",name)
+print("Age : ",age)
+print("Height : ",height)
+print("Are you student : ",is_student)
