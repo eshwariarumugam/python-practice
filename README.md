@@ -25,9 +25,47 @@ This repository contains my Python practice programs as I learn Python from the 
 - Login Check
 - Odd and Greater than 10
 - Student Category
+- 
 
 ## File Structure
 Each concept is written in a **separate Python file** for better understanding and clarity.
+
+## 🔹 While Loop Programs
+
+The following problems are solved using **`while` loop**:
+
+- Print numbers from **1 to N**
+- Print **even numbers** up to N
+- Print **odd numbers** up to N
+- Print numbers from **N to 1**
+- Find the **sum of first N natural numbers**
+- Reverse a string using `while` loop
+
+---
+
+## 🔹 For Loop Programs
+
+The following problems are solved using **`for` loop**:
+
+- Print numbers from **1 to N**
+- Print **even numbers** up to N
+- Print **odd numbers** up to N
+- Print numbers from **N to 1**
+- Find the **sum of first N natural numbers**
+- Print the **multiplication table** of a number
+- Loop through each character in a string
+- Count total characters in a string
+- Print vowels from a string
+- Count vowels in a string
+- Reverse a string using `for` loop
+
+---
+
+## 🔹 Logic Problems (Using Loops)
+
+- Factorial of a number
+- Check whether a number is **prime or not**
+- 
 
 ## How to Run
 Make sure Python is installed on your system.
