@@ -1,0 +1,6 @@
+#print 1 to n
+n=int(input("Enter the value of n:"))
+i=1
+while i<=n :
+    print(i)
+    i+=1
