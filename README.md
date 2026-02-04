@@ -2,7 +2,9 @@
 
 This repository contains my Python practice programs as I learn Python from the basics step by step.
 
-## Topics Covered
+---
+
+## 📌 Topics Covered
 
 ### 🔹 Basics
 - Hello World
@@ -13,11 +15,15 @@ This repository contains my Python practice programs as I learn Python from the 
 - Sum and Average
 - Area of Rectangle
 
+---
+
 ### 🔹 Strings
 - String Basics
 - String Methods
 
-### 🔹 Conditional Statements (if / elif / else)
+---
+
+### 🔹 Conditional Statements (`if / elif / else`)
 - Even or Odd
 - Positive, Negative, Zero
 - Greater of Two Numbers
@@ -25,13 +31,15 @@ This repository contains my Python practice programs as I learn Python from the 
 - Login Check
 - Odd and Greater than 10
 - Student Category
-- 
 
-## File Structure
+---
+
+## 📂 File Structure
 Each concept is written in a **separate Python file** for better understanding and clarity.
 
-## 🔹 While Loop Programs
+---
 
+### 🔹 While Loop Programs
 The following problems are solved using **`while` loop**:
 
 - Print numbers from **1 to N**
@@ -43,8 +51,7 @@ The following problems are solved using **`while` loop**:
 
 ---
 
-## 🔹 For Loop Programs
-
+### 🔹 For Loop Programs
 The following problems are solved using **`for` loop**:
 
 - Print numbers from **1 to N**
@@ -61,13 +68,13 @@ The following problems are solved using **`for` loop**:
 
 ---
 
-## 🔹 Logic Problems (Using Loops)
-
+### 🔹 Logic Problems (Using Loops)
 - Factorial of a number
 - Check whether a number is **prime or not**
-- 
 
-## How to Run
+---
+
+## ▶ How to Run
 Make sure Python is installed on your system.
 
 Run any file using:
