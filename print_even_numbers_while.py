@@ -1,0 +1,6 @@
+#print even numbers
+n=int(input("Enter the value of n :"))
+i=2
+while i<=n:
+    print(i)
+    i+=2
