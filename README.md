@@ -48,6 +48,7 @@ The following problems are solved using **`while` loop**:
 - Print numbers from **N to 1**
 - Find the **sum of first N natural numbers**
 - Reverse a string using `while` loop
+- Print **star patterns** using `while` loop
 
 ---
 
@@ -65,12 +66,22 @@ The following problems are solved using **`for` loop**:
 - Print vowels from a string
 - Count vowels in a string
 - Reverse a string using `for` loop
-
+- Print **star patterns**
+- Print **number patterns**
+  
 ---
 
 ### 🔹 Logic Problems (Using Loops)
 - Factorial of a number
 - Check whether a number is **prime or not**
+
+## – Pattern Programming
+Programs focused on **nested loops and pattern printing**:
+
+- Star pattern using `for` loop
+- Number pattern using `for` loop
+- Star pattern using `while` loop
+- 
 
 ---
 
