@@ -81,7 +81,7 @@ Programs focused on **nested loops and pattern printing**:
 - Star pattern using `for` loop
 - Number pattern using `for` loop
 - Star pattern using `while` loop
-- 
+  
 
 ---
 
