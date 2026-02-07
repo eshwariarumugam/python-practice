@@ -81,8 +81,12 @@ Programs focused on **nested loops and pattern printing**:
 - Star pattern using `for` loop
 - Number pattern using `for` loop
 - Star pattern using `while` loop
+- Inverted star pattern using `for` loop
+- Number pattern using `for`loop
+- Inverted Number pattern using `for`loop
+- Right aligned star pattern using `for`loop
+- Pyramid pattern using `for`loop
   
-
 ---
 
 ## ▶ How to Run
