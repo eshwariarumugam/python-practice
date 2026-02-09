@@ -85,8 +85,11 @@ Programs focused on **nested loops and pattern printing**:
 - Number pattern using `for`loop
 - Inverted Number pattern using `for`loop
 - Right aligned star pattern using `for`loop
+- Inverted right aligned star pattern using `for`loop
 - Pyramid pattern using `for`loop
-  
+- Inverted pyramid pattern using 
+  `for`loop
+- Square pattern using `for`loop
 ---
 
 ## ▶ How to Run
