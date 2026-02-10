@@ -90,6 +90,11 @@ Programs focused on **nested loops and pattern printing**:
 - Inverted pyramid pattern using 
   `for`loop
 - Square pattern using `for`loop
+- Hollow square pattern using `for`loop
+- Hollow right aligned triangle using `for`loop
+- Hollow  inverted right aligned triangle  using `for`loop
+- Hollow pyramid using `for`loop
+- Hollow  inverted pyramid using `for`loop
 ---
 
 ## ▶ How to Run
