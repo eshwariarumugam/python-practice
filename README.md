@@ -96,6 +96,7 @@ Programs focused on **nested loops and pattern printing**:
 - Hollow pyramid using `for`loop
 - Hollow  inverted pyramid using `for`loop
 - Hollow  diamond using `for`loop
+- Hollow  butterfly using `for`loop
 
 ---
 
