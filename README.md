@@ -74,6 +74,9 @@ The following problems are solved using **`for` loop**:
 ### 🔹 Logic Problems (Using Loops)
 - Factorial of a number
 - Check whether a number is **prime or not**
+- Check whether a number is palindrome or not
+- Count number of digit
+- Reverse a number
 
 ## – Pattern Programming
 Programs focused on **nested loops and pattern printing**:
