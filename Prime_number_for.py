@@ -1,4 +1,4 @@
-#check is a number is prime or not
+#check whether the number is prime or not
 n=int(input("Enter the number:"))
 if n>1:
     is_prime=True
