@@ -77,7 +77,8 @@ The following problems are solved using **`for` loop**:
 - Check whether a number is palindrome or not
 - Count number of digit
 - Reverse a number
-- Armstrong Number 
+- Armstrong Number
+- Prime number upto n 
 
 ## – Pattern Programming
 Programs focused on **nested loops and pattern printing**:
